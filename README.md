@@ -49,7 +49,19 @@ This dashboard helps visualize UPI usage patterns by:
 ![Matrix Chart - City & Currency](![image](https://github.com/user-attachments/assets/4c2c7db2-b0f9-46d3-942b-d75fe94e598a)
 
 
+## 🚀 How to Use
+
+1. Download the `.pbix` file.
+2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Explore different filters, visuals, and drill-through features.
+
+## 📌 Author
+
+**Anit Singh**  
+📧 anitsingh0095@gmail.com 
+[https://linkedin.com/in/anit-singh-4061661b9/]
+
 ---
 
-## 📂 Repository Structure
+> *Note: The data used in this dashboard is randomly sourced and meant for demonstration purposes only.*
 
