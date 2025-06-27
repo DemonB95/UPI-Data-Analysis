@@ -40,11 +40,14 @@ This dashboard helps visualize UPI usage patterns by:
 
 ### 🔹 Monthly Transaction Trends
 
-![Line Chart - Monthly Transaction Trends](screenshots/dashboard_overview.png)
+![Line Chart - Monthly Transaction Trends]
+![image](https://github.com/user-attachments/assets/49ffbc34-3d31-4cad-8357-3c153e4db309)
+
 
 ### 🔹 Matrix of City-Wise Transactions & Balances
 
-![Matrix Chart - City & Currency](screenshots/dashboard_matrix.png)
+![Matrix Chart - City & Currency](![image](https://github.com/user-attachments/assets/4c2c7db2-b0f9-46d3-942b-d75fe94e598a)
+)
 
 ---
 
